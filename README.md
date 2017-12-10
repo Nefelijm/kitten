@@ -1,4 +1,4 @@
-##OBJETIVO 
+#OBJETIVO 
 
 Crea una página web donde se muestre un paisaje y un gatito diferente a medida que la ventana del navegador se haga más pequeña.
 
@@ -6,7 +6,7 @@ Crea una página web donde se muestre un paisaje y un gatito diferente a medida 
 ![recursos](assets/img/img2.jpg)
 ![recursos](assets/img/img3.jpg)
 
-##RECOMENDACIONES:
+#RECOMENDACIONES:
 Entender bien que son las Media Queris y Viewport
 
 #HERRAMIENTAS:
@@ -14,5 +14,5 @@ Entender bien que son las Media Queris y Viewport
 CSS3
 HTML5
 
-##AUTOR:
+#AUTOR:
 Nefeli joñoruco 

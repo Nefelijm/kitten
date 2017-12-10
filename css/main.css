@@ -13,7 +13,7 @@ header{
     width: 100%;
     
 }
-/* Agregamos imagen de fondo en el body para  */
+/* Agregamos imagen de fondo en el body */
 body{
     background-image:url('../assets/img/sunny-day.jpg');
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@ img{
 }
 
 /* Llamaremos a la segunda imagen de fondo y ocultaremos las imagenes del contenedor large y small */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
    .medium{
        background-image:url('../assets/img/dawn.png');                      
     }
@@ -55,7 +55,7 @@ img{
  }
 
 /* Llamaremos a la tercera imagen de fondo y ocultaremos las imagenes del contenedor medium y large */
- @media screen and (max-width:500px){
+ @media screen and (max-width:700px){
 
   .small{
      background-image:url('../assets/img/night.jpg');     
